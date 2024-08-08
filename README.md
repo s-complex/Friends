@@ -1,5 +1,5 @@
 # Ou's Friends
 
-Our friends forever.
+Link exchange requirements are detailed at <https://library.gxres.net/links/exchange>
 
-Read [this](https://library.gxres.net/links/exchange) for more infomation.
+友链交换要求详见 <https://library.gxres.net/links/exchange>

@@ -134,3 +134,7 @@
   slogan: "只有当不幸真的到来时，我们才会怀念和渴望那些逝去的美好时光"
   avatar: zhyxulei.top.webp
   link: https://ZHYxulei.top
+- name: "/var/log/gblab"
+  slogan: "此处会不定时产生包含大量废话的日志文件"
+  avatar: lab.gb0.dev.webp
+  link: "https://lab.gb0.dev"

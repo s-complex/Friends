@@ -85,7 +85,11 @@
 - name: Misaka Akio
   slogan: 不努力就只能听到别人的好消息
   avatar: www.akio.top.webp
-  link: https://www.akio.top/
+  link: https://www.akio.top
+- name: CaaMoe
+  slogan: 我会一直视奸你......永远
+  avatar: blog.caa.moe.webp
+  link: https://blog.caa.moe
 - name: bsdayo
   slogan: 怎么会是呢？
   avatar: blog.bsdayo.moe.webp
@@ -101,7 +105,7 @@
 - name: 社会易姐
   slogan: 给岁月以文明，而不是给文明以岁月。
   avatar: shakaianee.top.webp
-  link: https://shakaianee.top/
+  link: https://shakaianee.top
 - name: LeZi
   slogan: 世上本没有博客，直到有了程序员
   avatar: leziblog.com.webp
@@ -113,7 +117,7 @@
 - name: MBRjun
   slogan: 我们生活在大地上，但我们的梦想超越天空
   avatar: www.mbrjun.cn.webp
-  link: https://www.mbrjun.cn/
+  link: https://www.mbrjun.cn
 - name: BLxcwg666
   slogan: 静かで奥深い
   avatar: blog.nekorua.com.webp
@@ -145,8 +149,12 @@
 - name: "HackerRouter"
   slogan: "在Nerd与Geek间选择了当格陵兰岛。"
   avatar: 1last.vip.webp
-  link: "https://1last.vip/"
+  link: "https://1last.vip"
 - name: "Zwh's Blog"
   slogan: "一起来玩吧~"
   avatar: zwh.moe.webp
   link: "https://zwh.moe"
+- name: "chihuo2104"
+  slogan: "遇到困难睡大觉"
+  avatar: blog.chihuo2104.dev.webp
+  link: "https://blog.chihuo2104.dev"

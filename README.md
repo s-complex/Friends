@@ -1,4 +1,4 @@
-# Ou's Friends
+# R2's Friends
 
 Link exchange requirements are detailed at <https://library.gxres.net/links/exchange>
 

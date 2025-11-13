@@ -34,7 +34,6 @@ function sort() {
     const content = yaml.dump(sortedContent, {
       indent: 2,
       lineWidth: -1,
-      quotingType: '"',
       forceQuotes: false,
     });
 
